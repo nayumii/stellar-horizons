@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: August 11, 2025
+  Changes:
+    - Added Planets
+    - Added Interstellar travel
