@@ -1,0 +1,33 @@
+{
+  "name": "stellar-horizons-optionals",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+
+  "title": "Stellar Horizons - Optionals",
+  "author": "Nayumii_",
+  "description": "Part of the Stellar Horizons modpack. Includes optionals mods but that are great for the modpack.",
+  "homepage": "https://discord.gg/H8zENtx494",
+  "contact": "Discord: nayumii",
+
+  "quality_required": true,
+  "space_travel_required": true,
+  "spoiling_required": true,
+  "freezing_required": true,
+  "segmented_units_required": true,
+  "expansion_shaders_required": true,
+
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age",
+    
+    "blueprint-shotgun >= 0.2.11",
+    "UPSFriendlyNixieTubeDisplay >= 0.2.9",
+    "textplates >= 0.7.2",
+    "Planet-Hopper >= 4.0.6",
+    "RocketCargoInsertion >= 1.1.0"
+  ]
+}
+  
+
+
+

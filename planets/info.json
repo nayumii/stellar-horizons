@@ -19,10 +19,6 @@
   "dependencies": [
     "base >= 2.0.0",
     "space-age",
-    
-    "interstellar-travel >= 1.0.10",
-
-    "cerys-lunaponics >= 0.6.2",
 
     "castra >= 0.5.4",
     "Cerys-Moon-of-Fulgora >= 3.8.4",
