@@ -21,10 +21,22 @@
     "space-age",
     
     "blueprint-shotgun >= 0.2.11",
+    "automatic-station-painter >= 2.0.0",
+    "FluidWagonColorMask >= 2.0.0",
     "UPSFriendlyNixieTubeDisplay >= 0.2.9",
     "textplates >= 0.7.2",
     "Planet-Hopper >= 4.0.6",
-    "RocketCargoInsertion >= 1.1.0"
+    "RocketCargoInsertion >= 1.1.0",
+    "bp-trees >= 1.1.2",
+    "ChangeInserterDropLaneWithResearch >= 1.2.0",
+    "cybersyn >= 2.0.31",
+    "cybersyn-combinator >= 2.7.3",
+    "WideChests >= 6.2.4",
+    "statistics-combinator-updated >= 0.2.49",
+    "show-max-underground-distance >= 0.1.0",
+    "Mini_Trains >= 2.0.0",
+    "cargo-ships >= 1.0.20",
+    "Hovercrafts >= 2.0.4"
   ]
 }
   

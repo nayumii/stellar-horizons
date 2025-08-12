@@ -1,0 +1,58 @@
+{
+  "name": "stellar-horizons-qol",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+
+  "title": "Stellar Horizons - Quality of Life",
+  "author": "Nayumii_",
+  "description": "Part of the Stellar Horizons modpack. Includes quality of life mods.",
+  "homepage": "https://discord.gg/H8zENtx494",
+  "contact": "Discord: nayumii",
+
+  "quality_required": true,
+  "space_travel_required": true,
+  "spoiling_required": true,
+  "freezing_required": true,
+  "segmented_units_required": true,
+  "expansion_shaders_required": true,
+
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age",
+    
+    "belt-visualizer >= 2.0.2",
+    "BottleneckLite >= 1.3.4",
+    "blueprint-sandboxes >= 3.1.0",
+    "circuit_visualizer >= 2.0.2",
+    "CleanFloor >= 2.0.0",
+    "complex-death-messages >= 0.3.4",
+    "some-corpsemarker >= 2.0.0",
+    "custom-map-colors >= 0.7.7",
+    "Death_Counter >= 2.0.1",
+    "EvenDistributionLite >= 1.4.2",
+    "even-pickier-dollies >= 2.6.3",
+    "factoryplanner >= 2.0.31",
+    "FarReachPrototypeLevel >= 2.0.0",
+    "Fill4Me >= 0.12.1",
+    "inserter-throughput >= 0.1.6",
+    "more-minimap-autohide-017 >= 2.0.0",
+    "StatsGui >= 1.6.1",
+    "StatsGui-MovementSpeed >= 1.0.6",
+    "QueueToFrontSE >= 1.0.1",
+    "RailSignalPlanner >= 2.0.3",
+    "RateCalculator >= 3.3.7",
+    "resourceMarker >= 0.8.33",
+    "BeltThreadUpgrades >= 1.3.1",
+    "tile-upgrade-planner-muluna >= 1.0.4",
+    "dqol-resource-monitor >= 1.5.6",
+    "Gun_Turret_Alerts >= 2.0.8",
+    "GUI_Unifyer >= 2.0.1",
+    "AutoDeconstruct >= 1.0.7",
+    "change-recipe-quality-without-re-selecting-recipe >= 1.0.3",
+    "CursorEnhancements >= 2.2.2",
+    "inventory-repair >= 20.0.3",
+    "mining-patch-planner >= 1.6.35",
+    "OilOutpostPlanner >= 1.6.7"
+  ]
+}
+  

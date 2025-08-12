@@ -1,0 +1,35 @@
+{
+  "name": "stellar-horizons-military",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+
+  "title": "Stellar Horizons - Military",
+  "author": "Nayumii_",
+  "description": "Part of the Stellar Horizons modpack. Includes mods that add military content.",
+  "homepage": "https://discord.gg/H8zENtx494",
+  "contact": "Discord: nayumii",
+
+  "quality_required": true,
+  "space_travel_required": true,
+  "spoiling_required": true,
+  "freezing_required": true,
+  "segmented_units_required": true,
+  "expansion_shaders_required": true,
+
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age",
+    
+    "ownlys_tracers >= 2.0.5",
+    "RampantFixed >= 2.02.01",
+    "Repair_Turret >= 2.0.4",
+    "doeworks-deer >= 0.3.0",
+    "ironclad-gunboat-and-mortar-turret-fork >= 0.0.3",
+    "assault_spidertron_V2 >= 2.3.8",
+    "RampantArsenalFork >= 1.0.3"
+  ]
+}
+  
+
+
+

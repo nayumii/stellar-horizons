@@ -34,6 +34,7 @@
     "Diversitree >= 1.0.12",
     "wood-military >= 2.5.0",
     "wood-industry >= 2.1.2",
+    "Milestones >= 1.4.6",
     "? InserterFuelLeech >= 1.0.0"
   ]
 }

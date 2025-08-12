@@ -11,7 +11,7 @@ Castra
 Cerys
 Corrundum
 Cubium
-Factorio-Tiberium
+Factorio-Tiberium (May be removed)
 Igrys
 Lignumis
 Maraxsis
@@ -26,7 +26,7 @@ Tenebris Prime
 ADDITIONS
 Automatic station painter (and train)
 Belt visualiser
-Better quality
+Better quality (Removed)
 Blueprint sandboxes
 Blueprintable Trees
 Bottleneck lite
@@ -43,27 +43,27 @@ Crushing Industry - productivity research
 custommapcolours
 death counter
 Disco Science
-Disco Thrusters
+Disco Thrusters (didn't add)
 Elevated Rail recolour
 Elevated Rails
-even distribution
+even distribution (remplaced with even distrubution lite)
 even pickier dollies
 Factory Planner
-far reach
+far reach (remplaced with FarReachPrototypeLevel)
 Fill4me
 Fluid Must Flow
 Fluid wagon colour mask
 Hot metals
 Inserter throughput
-LTN
-LTN Manager
+LTN (Remplaced with Project Cybersyn)
+LTN Manager (Not usefull)
 Milestones
 More minimap autohide
-Nanobots
-Nixie Tubes
-no remote view border
+Nanobots (replaced with blueprint shotgun)
+Nixie Tubes (remplaced with UPS friendly version)
+no remote view border (May be added)
 Planet Hoppers
-Play Time Display
+Play Time Display (Remplaced with statgui)
 Quality
 Quality Down Binning
 Queue to Front
@@ -76,23 +76,23 @@ Show Max Underground Distance
 Spaghetti Belt Tools
 Textplates
 Tile upgrade planner (Muluna fork)
-Train Trails
+Train Trails (Removed)
 Visible Planets In Space
 Visible Planets Scale
-YARM
+YARM (remplaced by Ressource Monitor)
 
 QOL
 Afraid of the Dark
 Ammo alerts
-auto_manual_mode
-Autodeconstruct
+auto_manual_mode (Removed)
+Autodeconstruct 
 Change recipe quality without reselecting recipe
 Cursor Enhancements
 Inventory Repair
 Manual inventory sorting
 OilOutpostPlanner
 Tasklist
-Vehiclesnap
+Vehiclesnap (included in base game)
 ```
 
 
