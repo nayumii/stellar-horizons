@@ -1,0 +1,5 @@
+Version: 0.1.0
+Date: 2024-12-19
+  * Initial release
+  * Quality system mods for Stellar Horizons modpack
+  * Includes quality enhancement mechanics for megabase gameplay

@@ -1,0 +1,5 @@
+Version: 0.1.0
+Date: 2024-12-19
+  * Initial release
+  * Military content mods for Stellar Horizons modpack
+  * Includes enhanced combat systems, turrets, and military vehicles
