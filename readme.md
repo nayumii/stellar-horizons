@@ -95,6 +95,10 @@ Tasklist
 Vehiclesnap (included in base game)
 ```
 
+## Helping 
+
+Use my factorio utils crate located here: https://github.com/nayumii/cargo-factorio
+
 
 ## Dev
 
