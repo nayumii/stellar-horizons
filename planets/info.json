@@ -8,6 +8,8 @@
   "description": "Part of the Stellar Horizons modpack. Includes planetary mods with compatibility patches and reorganized planet progression.",
   "homepage": "https://discord.gg/H8zENtx494",
   "contact": "Discord: nayumii",
+  "source": "https://github.com/nayumii/stellar-horizons",
+  "tags": ["planets"],
 
   "quality_required": true,
   "space_travel_required": true,
