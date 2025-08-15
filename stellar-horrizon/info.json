@@ -1,0 +1,37 @@
+{
+    "name": "stellar-horizons-core",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+  
+    "title": "Stellar Horizons - Core",
+    "author": "Nayumii_",
+    "description": "Official all in One Stellar Horizon modpack, check optionnal mods and you must install optionnal mod in SH core!",
+    "homepage": "https://discord.gg/H8zENtx494",
+    "contact": "Discord: nayumii",
+  
+    "quality_required": true,
+    "space_travel_required": true,
+    "spoiling_required": true,
+    "freezing_required": true,
+    "segmented_units_required": true,
+    "expansion_shaders_required": true,
+  
+    "dependencies": [
+      "base >= 2.0.0",
+      "space-age",
+  
+      "? stellar-horizons-optionals >= 0.0.1",
+      "? stellar-horizons-qol >= 0.0.1",
+
+      "stellar-horizons-core >= 0.0.1",
+      "stellar-horizons-enhanced-physics >= 0.0.1",
+      "stellar-horizons-military >= 0.0.1",
+      "stellar-horizons-planets >= 0.0.1",
+      "stellar-horizons-quality >= 0.0.1"
+    ],
+  
+    "source": "https://github.com/nayumii/stellar-horizons",
+    "tags": ["planets"],
+    "description_portal":"Official all in One Stellar Horizon modpack, check optionnal mods and you must install optionnal mod in SH core!"
+  }
+    

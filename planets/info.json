@@ -8,8 +8,6 @@
   "description": "Part of the Stellar Horizons modpack. Includes planetary mods with compatibility patches and reorganized planet progression.",
   "homepage": "https://discord.gg/H8zENtx494",
   "contact": "Discord: nayumii",
-  "source": "https://github.com/nayumii/stellar-horizons",
-  "tags": ["planets"],
 
   "quality_required": true,
   "space_travel_required": true,
@@ -39,6 +37,10 @@
     "secretas >= 1.0.32",
     "skewer_shattered_planet >= 1.0.26",
     "tenebris-prime >= 1.3.6"
-  ]
+  ],
+
+  "source": "https://github.com/nayumii/stellar-horizons",
+  "tags": ["planets"],
+  "description_portal":"Part of the Stellar Horizons modpack. Includes planetary mods with compatibility patches and reorganized planet progression."
 }
   

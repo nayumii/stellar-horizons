@@ -2,5 +2,5 @@
 Version: 0.1.0
 Date: <fill in date>
   Changes:
-    - Initial release of the planets mod for Stellar Horizons.
+    - Initial release of the military mod for Stellar Horizons.
 ---------------------------------------------------------------------------------------------------

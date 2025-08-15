@@ -19,8 +19,6 @@
   "dependencies": [
     "base >= 2.0.0",
     "space-age",
-    
-    "interstellar-travel >= 1.0.10",
 
     "Age-of-Production >= 1.7.4",
     "hot-metals >= 1.2.6",
@@ -36,6 +34,10 @@
     "wood-industry >= 2.1.2",
     "Milestones >= 1.4.6",
     "? InserterFuelLeech >= 1.0.0"
-  ]
+  ],
+
+  "source": "https://github.com/nayumii/stellar-horizons",
+  "tags": ["planets"],
+  "description_portal":"Part of the Stellar Horizons modpack. Includes core mods that is mandatory for the modpack."
 }
   
