@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: <fill in date>
   Changes:
     - Initial release of the enhanced graphics mod for Stellar Horizons.
 ---------------------------------------------------------------------------------------------------
+=======
+Version: 0.1.0
+Date: 2024-12-19
+  * Initial release
+  * Enhanced graphics mods for Stellar Horizons modpack
+  * Includes celestial weather, disco science effects, and improved visual elements
+>>>>>>> 363a43a469253bfa47aa2997b3f953a17be14e5b
