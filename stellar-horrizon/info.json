@@ -1,9 +1,9 @@
 {
-    "name": "stellar-horizons-core",
+    "name": "stellar-horizons",
     "version": "0.1.0",
     "factorio_version": "2.0",
   
-    "title": "Stellar Horizons - Core",
+    "title": "Stellar Horizons",
     "author": "Nayumii_",
     "description": "Official all in One Stellar Horizon modpack, check optionnal mods and you must install optionnal mod in SH core!",
     "homepage": "https://discord.gg/H8zENtx494",
@@ -24,7 +24,7 @@
       "? stellar-horizons-qol >= 0.0.1",
 
       "stellar-horizons-core >= 0.0.1",
-      "stellar-horizons-enhanced-physics >= 0.0.1",
+      "stellar-horizons-enhanced-graphics >= 0.0.1",
       "stellar-horizons-military >= 0.0.1",
       "stellar-horizons-planets >= 0.0.1",
       "stellar-horizons-quality >= 0.0.1"
