@@ -1,14 +1,10 @@
-<<<<<<< HEAD
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2025-08-16
+  * Add mods pollution-scaling and mission-tasks
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
-Date: <fill in date>
-  Changes:
-    - Initial release of the quality of life mod for Stellar Horizons.
----------------------------------------------------------------------------------------------------
-=======
-Version: 0.1.0
-Date: 2024-12-19
+Date: 2025-08-15
   * Initial release
   * Quality of Life mods for Stellar Horizons modpack
   * Includes various QoL improvements, visual enhancements, and utility tools
->>>>>>> 363a43a469253bfa47aa2997b3f953a17be14e5b
