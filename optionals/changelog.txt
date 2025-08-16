@@ -1,10 +1,11 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-08-16
-  * Add vehicle_physics as optional mod
+  - Add vehicle_physics as optional mod
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-08-15
-  * Initial release
-  * Optional but recommended mods for Stellar Horizons modpack
-  * Includes quality-of-life improvements, transportation enhancements, and utility mods
+  - Initial release
+  - Optional but recommended mods for Stellar Horizons modpack
+  - Includes quality-of-life improvements, transportation enhancements, and utility mods
