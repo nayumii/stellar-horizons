@@ -1,7 +1,120 @@
 # Stellar Horrizon
 
-Modpack inspired by Laurence Play series Planetery pioneers. We added every planet that are currently playable, future planets may be added but save compatibility will remain essential.
-Added severals mods on top of the modpack to make it harder.
+Stellar Horizons is a comprehensive Factorio modpack inspired by Laurence Plays' Planetary Pioneers series. It brings together a lot of currently playable planet mod, with plans to add more in the future—always prioritizing save compatibility. 
+
+This modpack enhances the challenge and depth of gameplay by integrating a wide selection of additional mods, offering new mechanics, quality-of-life improvements, and expanded content for a richer Factorio experience.
+Added severals mods on top of the modpack to make it harder like rampant, but you have rampant arsenal and other mods to help you!
+
+## Current Mods
+
+Below is a categorized list of all mods included in the Stellar Horizons modpack and its components:
+
+### Main Modpack (`stellar-horizons`)
+- base
+- space-age
+- stellar-horizons-optionals *(optional)*
+- stellar-horizons-qol *(optional)*
+- stellar-horizons-core
+- stellar-horizons-enhanced-graphics
+- stellar-horizons-military
+- stellar-horizons-planets
+- stellar-horizons-quality
+
+### Core (`stellar-horizons-core`)
+- base
+- space-age
+- Age-of-Production
+- hot-metals
+- cerys-lunaponics
+- moshine-solaponics
+- crushing-industry
+- crushing-industry-productivity-research
+- FluidMustFlow
+- aquilo-seabloom-algaculture
+- fulgora-coralmium-agriculture
+- Diversitree
+- wood-military
+- wood-industry
+- Milestones
+- InserterFuelLeech *(optional)*
+
+### Planets (`stellar-horizons-planets`)
+- base
+- space-age
+- castra
+- Cerys-Moon-of-Fulgora
+- corrundum
+- cubium
+- Factorio-Tiberium
+- Igrys
+- lignumis
+- maraxsis
+- metal-and-stars
+- Moshine
+- Paracelsin
+- planet-muluna
+- Redrawn-Space-Connections
+- rubia
+- secretas
+- skewer_shattered_planet
+- tenebris-prime
+
+### Military (`stellar-horizons-military`)
+- base
+- space-age
+- ownlys_tracers
+- RampantFixed
+- Repair_Turret
+- doeworks-deer
+- ironclad-gunboat-and-mortar-turret-fork
+- assault_spidertron_V2
+- RampantArsenalFork
+
+### Quality of Life (`stellar-horizons-qol`)
+- base
+- space-age
+- belt-visualizer
+- BottleneckLite
+- blueprint-sandboxes
+- circuit_visualizer
+- CleanFloor
+- complex-death-messages
+- some-corpsemarker
+- custom-map-colors
+- Death_Counter
+- EvenDistributionLite
+- even-pickier-dollies
+- factoryplanner
+- FarReachPrototypeLevel
+- Fill4Me
+- inserter-throughput
+- more-minimap-autohide-017
+- StatsGui
+- StatsGui-MovementSpeed
+- QueueToFrontSE
+- RailSignalPlanner
+- RateCalculator
+- resourceMarker
+- BeltThreadUpgrades
+- tile-upgrade-planner-muluna
+- dqol-resource-monitor
+- Gun_Turret_Alerts
+- GUI_Unifyer
+- AutoDeconstruct
+- change-recipe-quality-without-re-selecting-recipe
+- CursorEnhancements
+- inventory-repair
+- mining-patch-planner
+- OilOutpostPlanner
+- awesome-rqm
+- pollution-scaling
+- mission-tasks
+
+---
+
+*Mods marked as (optional) are optional dependencies.*
+
+## Original mod list
 
 Original Laurence Plays Factorio: Planetary Pionners mod list:
 ```
@@ -97,9 +210,4 @@ Vehiclesnap (included in base game)
 
 ## Helping 
 
-Use my factorio utils crate located here: https://github.com/nayumii/cargo-factorio
-
-
-## Dev
-
-Use my factorio crates for easier testing and building 
+Use my factorio utils crate located here for faster testing and building: https://github.com/nayumii/cargo-factorio
