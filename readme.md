@@ -1,9 +1,10 @@
 # Stellar Horrizon
 
-Stellar Horizons is a comprehensive Factorio modpack inspired by Laurence Plays' Planetary Pioneers series. It brings together a lot of currently playable planet mod, with plans to add more in the future—always prioritizing save compatibility. 
+Stellar Horizons is the official all-in-one Factorio modpack inspired by Laurence Plays' Planetary Pioneers series. It brings together a wide selection of currently playable planet mods, with plans to add more in the future—always prioritizing save compatibility. This modpack is designed to slow down the early game and significantly extend the endgame, offering a deeper and more challenging Factorio experience.
 
-This modpack enhances the challenge and depth of gameplay by integrating a wide selection of additional mods, offering new mechanics, quality-of-life improvements, and expanded content for a richer Factorio experience.
-Added severals mods on top of the modpack to make it harder like rampant, but you have rampant arsenal and other mods to help you!
+To achieve this, Stellar Horizons integrates numerous additional mods, including difficulty enhancers like Rampant, while also providing tools and quality-of-life improvements such as Rampant Arsenal to help you along the way. Some mods are optional and can be removed if they are too heavy on UPS or do not fit your playstyle—be sure to check the optional mods, and remember that some must be installed in SH core for full functionality.
+
+This is the first version of the modpack. While I may not have a lot of time to maintain it, I will review merge requests and do my best to fix any bugs that arise. Community feedback and contributions are welcome!
 
 ## Current Mods
 
@@ -110,6 +111,27 @@ Below is a categorized list of all mods included in the Stellar Horizons modpack
 - [pollution-scaling](https://mods.factorio.com/mod/pollution-scaling)
 - [mission-tasks](https://mods.factorio.com/mod/mission-tasks)
 
+### Enhanced Graphics (`stellar-horizons-enhanced-graphics`)
+- base
+- space-age
+- [Enduring-Embers](https://mods.factorio.com/mod/Enduring-Embers)
+- [celestial-weather](https://mods.factorio.com/mod/celestial-weather)
+- [DiscoScience](https://mods.factorio.com/mod/DiscoScience)
+- [elevated-rails-recolor](https://mods.factorio.com/mod/elevated-rails-recolor)
+- [Better_Starmap_Background](https://mods.factorio.com/mod/Better_Starmap_Background)
+- [visible-planets](https://mods.factorio.com/mod/visible-planets)
+- [vp-scale](https://mods.factorio.com/mod/vp-scale)
+- [fire-lights](https://mods.factorio.com/mod/fire-lights)
+- [heat_glow](https://mods.factorio.com/mod/heat_glow)
+- [diurnal-dynamics](https://mods.factorio.com/mod/diurnal-dynamics)
+
+### Quality (`stellar-horizons-quality`)
+- base
+- space-age
+- [Quality-Plus-Plus](https://mods.factorio.com/mod/Quality-Plus-Plus)
+- [quality-condenser](https://mods.factorio.com/mod/quality-condenser)
+- [quality-down-binning](https://mods.factorio.com/mod/quality-down-binning)
+
 ---
 
 *Mods marked as (optional) are optional dependencies.*
@@ -211,3 +233,29 @@ Vehiclesnap (included in base game)
 ## Helping 
 
 Use my factorio utils crate located here for faster testing and building: https://github.com/nayumii/cargo-factorio
+
+## FAQ
+
+**Q: What is Stellar Horizons?**
+A: Stellar Horizons is an all-in-one Factorio modpack inspired by Laurence Plays' Planetary Pioneers series. It combines many planet mods and additional enhancements to create a challenging, long-lasting gameplay experience.
+
+**Q: How do I install the modpack?**
+A: Install the main mod "Stellar Horizons", check optionnals part of the modpack if you want full modpack experience
+
+**Q: Are all mods required?**
+A: No. Some mods are marked as optional and can be removed if you prefer, or if they impact performance (UPS). However, some optional mods must be installed in SH core for full functionality—see the notes in the mod list.
+
+**Q: Is the modpack compatible with existing saves?**
+A: No, you need to make a new save
+
+**Q: My game is running slowly (UPS drops). What can I do?**
+A: Some mods are more performance-intensive than others. You can try disabling or removing optional mods that are heavy on UPS. Check debug menu in game to see what mods eat all UPS and send the screenshot or save
+
+**Q: How do I report bugs or suggest features?**
+A: Please open an issue or submit a merge request on the modpack's GitHub page. The maintainers will review reports and contributions as time allows.
+
+**Q: Will the modpack be updated in the future?**
+A: Yes, there are plans to add more planets and features. However, maintenance time is limited, so updates may be infrequent. Community contributions are welcome!
+
+**Q: Can I contribute to the modpack?**
+A: Absolutely! Merge requests and suggestions are encouraged. Please ensure your changes maintain save compatibility and are well-tested.
