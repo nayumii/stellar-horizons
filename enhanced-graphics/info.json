@@ -20,12 +20,16 @@
     "base >= 2.0.0",
     "space-age",
     
+    "Enduring-Embers >= 2.0.0",
     "celestial-weather >= 1.4.0",
     "DiscoScience >= 2.0.1",
     "elevated-rails-recolor >= 1.0.1",
     "Better_Starmap_Background >= 1.1.3",
     "visible-planets >= 1.5.2",
-    "vp-scale >= 1.2.0"
+    "vp-scale >= 1.2.0",
+    "fire-lights >= 0.13.2",
+    "heat_glow >= 2.0.3",
+    "diurnal-dynamics >= 0.14.2"
 
   ]
 }

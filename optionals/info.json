@@ -36,7 +36,8 @@
     "show-max-underground-distance >= 0.1.0",
     "Mini_Trains >= 2.0.0",
     "cargo-ships >= 1.0.20",
-    "Hovercrafts >= 2.0.4"
+    "Hovercrafts >= 2.0.4",
+    "? vehicle_physics >= 2.0.4"
   ]
 }
   

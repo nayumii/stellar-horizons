@@ -53,7 +53,9 @@
     "inventory-repair >= 20.0.3",
     "mining-patch-planner >= 1.6.35",
     "OilOutpostPlanner >= 1.6.7",
-    "awesome-rqm >= 0.5.0"
+    "awesome-rqm >= 0.5.0",
+    "pollution-scaling >= 1.0.6",
+    "mission-tasks >= 1.0.7"
   ]
 }
   
