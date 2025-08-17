@@ -39,7 +39,7 @@
     "cargo-ships >= 1.0.20",
     "Hovercrafts >= 2.0.4",
     "? AsphaltRoadsPatched >= 1.4.7",
-    "? PavementDriveAssist >= 2.2.0",
+    "? PavementDriveAssistContinued >= 2.2.0",
     "? vehicle_physics >= 2.0.4"
   ]
 }
