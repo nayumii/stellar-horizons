@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2025-08-17
+  - Add color_whole_train for coloring train wagons
+  - Add Colored pipe and colored pipe planner for coloring your pipe based on their content
+  - Add a AsphaltRoadsPatched and PavementDriveAssist as optional
+
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-08-16
   - Add vehicle_physics as optional mod
