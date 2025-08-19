@@ -1,4 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
-Date: 2025-08-15
+Date: 2025-08-19
+  * Add ResetEvolutionPollution-SpaceAge as optionnal for ressetting bitters getting too hard on arriving on nauvis
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2025-08-19
   * Initial release

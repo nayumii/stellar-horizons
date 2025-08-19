@@ -1,6 +1,6 @@
 {
     "name": "stellar-horizons-hard",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "factorio_version": "2.0",
   
     "title": "Stellar Horizons - Hard",
@@ -20,7 +20,8 @@
       "base >= 2.0.0",
       "space-age",
       
-      "RampantFixed >= 2.02.01"
+      "RampantFixed >= 2.02.01",
+      "? ResetEvolutionPollution-SpaceAge >= 0.0.2"
     ]
   }
     
