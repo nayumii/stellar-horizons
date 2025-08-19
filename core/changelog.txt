@@ -1,4 +1,8 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2025-08-19
+  * Added hot metal to hard and removed from core
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-08-19
   * Make core dependant of stellar-horizons-planets for making more customizable stellar-horrizons modpack

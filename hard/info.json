@@ -21,6 +21,7 @@
       "space-age",
       
       "RampantFixed >= 2.02.01",
+      "hot-metals >= 1.2.6",
       "? ResetEvolutionPollution-SpaceAge >= 0.0.2"
     ]
   }

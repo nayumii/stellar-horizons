@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-08-19
-  * Add ResetEvolutionPollution-SpaceAge as optionnal for ressetting bitters getting too hard on arriving on nauvis
+  * Added hot metal to hard and removed from core
+  * Added ResetEvolutionPollution-SpaceAge to reset nauvis on arrival because of rampant evolution start too soon
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
-Date: 2025-08-19
+Date: 2025-08-15
   * Initial release
