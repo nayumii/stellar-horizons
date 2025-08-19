@@ -1,6 +1,6 @@
 {
   "name": "stellar-horizons-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "factorio_version": "2.0",
 
   "title": "Stellar Horizons - Core",
@@ -19,6 +19,8 @@
   "dependencies": [
     "base >= 2.0.0",
     "space-age",
+
+    "stellar-horizons-planets >= 0.1.0",
 
     "Age-of-Production >= 1.7.4",
     "hot-metals >= 1.2.6",

@@ -1,3 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2025-08-19
+  * Make core dependant of stellar-horizons-planets for making more customizable stellar-horrizons modpack
+--------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-08-15
   * Initial release
