@@ -1,0 +1,30 @@
+{
+    "name": "stellar-horizons-hard",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+  
+    "title": "Stellar Horizons - Hard",
+    "author": "Nayumii_",
+    "description": "Part of the Stellar Horizons modpack. Includes mods that add more difficulty",
+    "homepage": "https://discord.gg/H8zENtx494",
+    "contact": "Discord: nayumii",
+  
+    "quality_required": true,
+    "space_travel_required": true,
+    "spoiling_required": true,
+    "freezing_required": true,
+    "segmented_units_required": true,
+    "expansion_shaders_required": true,
+  
+    "dependencies": [
+      "base >= 2.0.0",
+      "space-age",
+      
+      "RampantFixed >= 2.02.01"
+    ]
+  }
+    
+  
+  
+  
+  
