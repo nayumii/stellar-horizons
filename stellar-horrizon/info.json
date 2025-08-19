@@ -1,6 +1,6 @@
 {
     "name": "stellar-horizons",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "factorio_version": "2.0",
   
     "title": "Stellar Horizons",
@@ -20,14 +20,14 @@
       "base >= 2.0.0",
       "space-age",
   
-      "? stellar-horizons-optionals >= 0.0.1",
-      "? stellar-horizons-qol >= 0.0.1",
+      "? stellar-horizons-optionals >= 0.3.0",
+      "? stellar-horizons-qol >= 0.3.0",
+      "? stellar-horizons-hard >= 0.1.0",
+      "? stellar-horizons-enhanced-graphics >= 0.3.0",
+      "? stellar-horizons-quality >= 0.1.0",
+      "? stellar-horizons-military >= 0.1.0",
 
-      "stellar-horizons-core >= 0.0.1",
-      "stellar-horizons-enhanced-graphics >= 0.0.1",
-      "stellar-horizons-military >= 0.0.1",
-      "stellar-horizons-planets >= 0.0.1",
-      "stellar-horizons-quality >= 0.0.1"
+      "stellar-horizons-core >= 0.1.0"
     ],
   
     "source": "https://github.com/nayumii/stellar-horizons",
