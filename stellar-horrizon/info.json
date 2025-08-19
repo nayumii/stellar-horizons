@@ -26,6 +26,7 @@
       "? stellar-horizons-enhanced-graphics >= 0.3.0",
       "? stellar-horizons-quality >= 0.1.0",
       "? stellar-horizons-military >= 0.1.0",
+      "? stellar-horizons-hard >= 0.1.0",
 
       "stellar-horizons-core >= 0.1.0"
     ],

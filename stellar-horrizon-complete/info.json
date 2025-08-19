@@ -3,7 +3,7 @@
     "version": "0.2.0",
     "factorio_version": "2.0",
   
-    "title": "Stellar Horizons",
+    "title": "Stellar Horizons - Complete",
     "author": "Nayumii_",
     "description": "Official all in One Stellar Horizon complete experience modpack, Stellar Horizons for customization this is the easy complete installation method for having optionnal mandatory. You still have to check stellar hrorrizons core!",
     "homepage": "https://discord.gg/H8zENtx494",
@@ -26,6 +26,7 @@
       "stellar-horizons-enhanced-graphics >= 0.3.0",
       "stellar-horizons-quality >= 0.1.0",
       "stellar-horizons-military >= 0.1.0",
+      "stellar-hard >= 0.1.0",
       "stellar-horizons >= 0.2.0"
     ],
   
