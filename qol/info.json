@@ -1,6 +1,6 @@
 {
   "name": "stellar-horizons-qol",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "factorio_version": "2.0",
 
   "title": "Stellar Horizons - Quality of Life",
@@ -54,7 +54,8 @@
     "mining-patch-planner >= 1.6.35",
     "OilOutpostPlanner >= 1.6.7",
     "pollution-scaling >= 1.0.6",
-    "mission-tasks >= 1.0.7"
+    "mission-tasks >= 1.0.7",
+    "Actual_Craft_Time_2 >= 0.7.0"
   ]
 }
   
