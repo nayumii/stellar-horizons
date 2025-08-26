@@ -1,6 +1,6 @@
 {
     "name": "stellar-horizons-complete",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "factorio_version": "2.0",
   
     "title": "Stellar Horizons - Complete",
@@ -23,7 +23,8 @@
       "stellar-horizons-optionals >= 0.3.0",
       "stellar-horizons-qol >= 0.3.0",
       "stellar-horizons-hard >= 0.1.0",
-      "stellar-horizons-enhanced-graphics >= 0.3.0",
+      "stellar-horizons-enhanced-graphics >= 0.3.0",      
+      "stellar-horizons-enhanced-sounds >= 0.1.0",
       "stellar-horizons-quality >= 0.1.0",
       "stellar-horizons-military >= 0.1.0",
       "stellar-horizons-hard >= 0.3.1",
