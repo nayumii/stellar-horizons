@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2025-08-15
+    Features:
+        - Add ra2-sound-pack-speaker, betterartillerysounds-updated, Soundpack-alerts-and-sirens-updated-v1-1
+  * Initial release

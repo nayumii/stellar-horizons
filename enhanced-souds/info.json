@@ -1,0 +1,32 @@
+{
+    "name": "stellar-horizons-enhanced-sound",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+  
+    "title": "Stellar Horizons - Enhanced Sound",
+    "author": "Nayumii_",
+    "description": "Part of the Stellar Horizons modpack. Includes mods that enhance sounds",
+    "homepage": "https://discord.gg/H8zENtx494",
+    "contact": "Discord: nayumii",
+  
+    "quality_required": true,
+    "space_travel_required": true,
+    "spoiling_required": true,
+    "freezing_required": true,
+    "segmented_units_required": true,
+    "expansion_shaders_required": true,
+  
+    "dependencies": [
+      "base >= 2.0.0",
+      "space-age",
+      
+      "ra2-sound-pack-speaker >= 1.0.0",
+      "betterartillerysounds-updated >= 0.0.1",
+      "Soundpack-alerts-and-sirens-updated-v1-1 >= 1.0.8"
+    ]
+  }
+    
+  
+  
+  
+  
