@@ -1,6 +1,6 @@
 {
   "name": "stellar-horizons-enhanced-graphics",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "factorio_version": "2.0",
 
   "title": "Stellar Horizons - Enhanced Graphics",
@@ -30,7 +30,8 @@
     "fire-lights >= 0.13.2",
     "heat_glow >= 2.0.3",
     "diurnal-dynamics >= 0.14.2",
-    "? visible-pollutants >= 1.4.2"
+    "? visible-pollutants >= 1.4.2",
+    "mushroom-cloud >= 1.0.2"
   ]
 }
   
