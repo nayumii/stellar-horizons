@@ -1,3 +1,7 @@
+Version: 0.3.0
+Date: 2025-08-17
+  Changes:
+    - Replace UPS nixie tube by nixie tube by justarandomgeek 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2025-08-17

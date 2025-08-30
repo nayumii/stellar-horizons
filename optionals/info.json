@@ -1,6 +1,6 @@
 {
   "name": "stellar-horizons-optionals",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "factorio_version": "2.0",
 
   "title": "Stellar Horizons - Optionals",
@@ -24,7 +24,7 @@
     "automatic-station-painter >= 2.0.0",
     "color_whole_train >= 2.1.0",
     "FluidWagonColorMask >= 2.0.0",
-    "UPSFriendlyNixieTubeDisplay >= 0.2.9",
+    "nixie-tubes >= 2.0.8",
     "textplates >= 0.7.2",
     "Planet-Hopper >= 4.0.6",
     "RocketCargoInsertion >= 1.1.0",
